@@ -1,2 +1,1 @@
-# ITH_PTH_HCC_Project
- Official Implementation
+This is official implementation of the manuscript titled "**Encoding the Intra- and Peri-tumoral Heterogeneity of Hepatocellular Carcinoma for Micro-vascular Invasion prediction and Prognostic Risk Stratification: A Multicenter Study**"
